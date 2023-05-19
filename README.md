@@ -17,10 +17,6 @@ This application is a demonstration of the capabilities of Flutter and serves as
 
 
 ## App Screenshot
-![Screenshot](Screenshot_20220820-130942.png | width=100)
 
-![Screenshot](Screenshot_20220820-130948.png)
 
-![Screenshot](Screenshot_20220820-130955.png)
-
-![Screenshot](Screenshot_20220820-131005.png)
+![Screenshot](20230520_010215_0000.png)
