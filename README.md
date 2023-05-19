@@ -17,6 +17,10 @@ This application is a demonstration of the capabilities of Flutter and serves as
 
 
 ## App Screenshot
-<img src="https://github.com/mrezkys/hungry/blob/main/demo/banner.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/hungry/blob/main/demo/shot.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/hungry/blob/main/demo/details.jpg" width="auto" height="auto" >
+![Screenshot](Screenshot_20220820-130942.png)
+
+![Screenshot](Screenshot_20220820-130948.png)
+
+![Screenshot](Screenshot_20220820-130955.png)
+
+![Screenshot](Screenshot_20220820-131005.png)
